@@ -1,37 +1,37 @@
-plant,sun,evan,gina,liesse,lizzie,jack
-Broccoli,,1,5,10,3,9
-Asparagus,,10,9,1,4,2
-Blueberry bushes,,5,6,6,4,9
-Strawberries,,1,3,2,2,4
-Eggplant,,7,1,3,4,6
-Bok choy,,9,2,3,4,1
-Zucchini,,4,1,2,9,4
-Cucumbers,,6,9,1,8,8
-Lettuce,,4,1,8,8,3
-Arugula,,2,2,5,9,7
-Carrots,,4,8,5,4,2
-Potatoes,,8,1,7,1,5
-Green beans,,9,1,8,2,9
-Brussel sprouts,,8,8,9,9,7
-Celery,,7,10,7,10,8
-Kale,,7,2,10,2,1
-Leeks,,2,10,1,10,10
-Onions,,7,1,4,8,9
-Bell peppers,,7,4,5,1,7
-Banana peppers,,10,9,8,4,4
-Cayene peppers,,8,10,10,2,9
-Pumpkins,,5,5,6,10,10
-Butternut squash,,8,9,6,3,3
-Sweet potatoes,,3,10,1,3,10
-Basil,,8,1,3,1,1
-Dill,,6,10,8,2,4
-Lavender,,6,4,4,7,6
-Oregano,,4,10,3,3,5
-Parsley,,6,4,10,10,7
-Cilantro,,2,3,2,8,7
-Rosemary,,8,1,10,6,10
-Thyme,,1,3,2,7,7
-Thai basil,,7,7,5,10,1
-Chives,,1,1,4,1,2
-Rasberries,,8,9,5,9,6
-Watermelon,,6,5,6,3,4
+plant,sun,plant_spacing,evan,gina,liesse,lizzie,jack
+Arugula,Partial shade,4,2,2,5,9,7
+Asparagus,Partial shade,12,10,9,1,4,2
+Banana peppers,Full sun,24,10,9,8,4,4
+Basil,Full sun,6,8,1,3,1,1
+Bell peppers,Full sun,18,7,4,5,1,7
+Blueberries,Full sun,48,5,6,6,4,9
+Bok choy,Partial sun,18,9,2,3,4,1
+Broccoli,Partial sun,18,1,5,10,3,9
+Brussel sprouts,Partial shade,24,8,8,9,9,7
+Butternut squash,Full sun,12,8,9,6,3,3
+Carrots,Partial shade,1,4,8,5,4,2
+Cayene peppers,Full sun,24,8,10,10,2,9
+Celery,Partial sun,12,7,10,7,10,8
+Chives,Full sun,2,1,1,4,1,2
+Cilantro,Full sun,0.25,2,3,2,8,7
+Cucumbers,Full sun,12,6,9,1,8,8
+Dill,Full sun,0.25,6,10,8,2,4
+Eggplant,Full sun,18,7,1,3,4,6
+Green beans,Partial sun,18,9,1,8,2,9
+Kale,Partial sun,24,7,2,10,2,1
+Lavender,Full sun,18,6,4,4,7,6
+Leeks,Partial sun,6,2,10,1,10,10
+Lettuce,Partial shade,12,4,1,8,8,3
+Onions,Partial sun,12,7,1,4,8,9
+Oregano,Full sun,12,4,10,3,3,5
+Parsley,Full sun,8,6,4,10,10,7
+Potatoes,Partial sun,12,8,1,7,1,5
+Pumpkins,Full sun,36,5,5,6,10,10
+Rasberries,Full sun,28,8,9,5,9,6
+Rosemary,Full sun,24,8,1,10,6,10
+Strawberries,Full sun,18,1,3,2,2,4
+Sweet potatoes,Full sun,12,3,10,1,3,10
+Thai basil,Full sun,6,7,7,5,10,1
+Thyme,Full sun,6,1,3,2,7,7
+Watermelon,Full sun,3,6,5,6,3,4
+Zucchini,Full sun,18,4,1,2,9,4
