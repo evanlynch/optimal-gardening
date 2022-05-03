@@ -10,8 +10,8 @@ While coming up with an initial plan, several constraints presented themselves. 
 
 The following constraints will be covered in today's workshop:
 - A tree blocks the sun for a good part of the day, making it difficult to grow sun-loving crops in parts of the garden. 
-- Once a perennial is planted, it must stay in the bed to which it was assigned for the forseeable future. 
-- Certain plants can't be planted in the same bed year-over-year without increasing the risk of certain soil-born diseases (we will use tomatoes as an example).
+- Once a perennial is planted, it must stay in the bed to which it was assigned for the forseeable future, taking up desirable bed capacity. 
+- Certain crops can't be planted in the same bed year-over-year without increasing the risk of certain soil-born diseases (we will use tomatoes as an example).
 - A groundhog keeps digging under the fence and needs to be removed (not part of our optimization problem).
 
 <br>
