@@ -45,7 +45,7 @@ The gif below shows an example of how simulated annealing is able to find the gl
 
 Mixed-Integer Programming (MIP) takes a strictly mathematical approach to optimization. This approach unlocks something key: guaranteed optimality. MIP models take an explict mathematical form, commonly generalized as:
 
-![mip_model](./img/mip_formulation.png)
+![mip_formulation](./img/mip_formulation.png)
 
 The top row defines the objective function, followed by a series of inequalities that represent the constraints that prevent the objective from reaching infinity (or negative infinity in the case of minimization). The final set of constraints prohibit X from being negative. We refer to MIP as "mixed-integer", which simply means that some or all of the decision variables (X) need to be integral (not such an easy task). 
 
